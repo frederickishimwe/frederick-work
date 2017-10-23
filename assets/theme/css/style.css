@@ -1,6 +1,5 @@
-/*!
- * Default theme v2 (https://mobirise.com/)
- * Copyright 2016 Mobirise
+/*
+ *My modified style 
  */
 .container {
   position: relative; }
@@ -1880,7 +1879,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     display: block; }
 
 .hidden {
-  visibility: hidden; }
+  visibility: visible; }
 
 .visible {
   visibility: visible; }
